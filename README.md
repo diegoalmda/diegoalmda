@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, React JS, PHP7 and MongoDB.**
 
-- 📄 Know about my experiences [I am studying hard to achieve my dream of becoming a Full Stack developer. I started to create my online portfolio.](Estou estudando bastante para alcançar meu sonhe de me tornar um Full Stack developer. Comecei a criar meu portfólio online com alguns trabalhos e exercícios de estudos. Em breve disponibilizarei o link.)
+- 📄 Know about my experiences [I am studying hard to achieve my dream of becoming a Full Stack developer. I started to create my online portfolio.](Estou estudando bastante para alcançar meu sonho de me tornar um Full Stack developer. Comecei a criar meu portfólio online com alguns trabalhos e exercícios de estudos. Em breve disponibilizarei o link.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
