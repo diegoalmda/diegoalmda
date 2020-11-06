@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego de Almeida Cunha</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A front end web developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Node.js, React JS, PHP7 and MongoDB.**
 
