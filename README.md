@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego de Almeida Cunha</h1>
 <h3 align="center">A front end web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node.js, React JS, PHP7 and MongoDB.**
+- 🌱 I’m currently learning **Node.js, React JS, Vue.JS and MongoDB.**
 
 - 📄 Know about my experiences [I am studying hard to achieve my dream of becoming a Full Stack developer. I started to create my online portfolio.](Estou estudando bastante para alcançar meu sonho de me tornar um Full Stack developer. Comecei a criar meu portfólio online com alguns trabalhos e exercícios de estudos. Em breve disponibilizarei o link.)
 
