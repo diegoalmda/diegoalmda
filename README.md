@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diego de Almeida Cunha</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
+<h3 align="left">Know about my experiences:</h3>
 
 - 🌱 I’m currently learning **React Native.**
 
-- 📄 Know about my experiences [I am a Telematics technologist and a freelance full-stack developer who started my professional career in early 2020. I intend to continue studying and dedicating myself to developing my career in this environment that has always been my true passion. I have been dedicated to studying the JavaScript language and some frameworks related to it, but I do not intend to limit myself to the language. I want to keep evolving and learning something new every day. My professional interests at the moment include ReactJS, NodeJS and React Native, but I am always open to discover new technologies and continue to learn some new stuff according to the evolutionary trends of the Technology by itself.]
+- 📄 I am a Telematics technologist and a freelance full-stack developer who started my professional career in early 2020. I intend to continue studying and dedicating myself to developing my career in this environment that has always been my true passion. I have been dedicated to studying the JavaScript language and some frameworks related to it, but I do not intend to limit myself to the language. I want to keep evolving and learning something new every day. My professional interests at the moment include ReactJS, NodeJS and React Native, but I am always open to discover new technologies and continue to learn some new stuff according to the evolutionary trends of the Technology by itself.
 
 - 📄 Desde o início de 2020 tenho focado em retornar para a minha área de formação que é a de tecnologia. Atualmente atuo como desenvolvedor web freelancer. Pretendo continuar estudando e me dedicando para evoluir cada vez mais e elevar constantemente minha carreira a um nível acima. Me interesso por tecnologias de desenvolvimento web e dispositivos móveis. Tenho focado no JavaScript e nas tecnologias ligadas à linguagem, mas não pretendo me prender à linguagem. Estou disposto a me dedicar a outras tecnologias sempre que possível. Quero seguir em constante evolução e aprendendo algo novo a cada dia. No momento estou trilhando meu caminho para adquirir novas experiências.
 
