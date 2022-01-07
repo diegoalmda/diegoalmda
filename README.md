@@ -2,8 +2,6 @@
 <h3 align="center">A full-stack developer from Brazil</h3>
 <h3 align="left">Know about my experiences:</h3>
 
-- 🌱 I’m currently learning **React Native.**
-
 - 📄 I am a Telematics technologist and a full-stack developer. I have been dedicated to studying the JavaScript language and some frameworks related to it, but I do not intend to limit myself to the language. I want to keep evolving and learning something new every day. My professional interests at the moment include ReactJS, NodeJS and React Native, but I am always open to discover new technologies and continue to learn some new stuff according to the evolutionary trends of the Technology by itself.
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +15,7 @@
  - CSS3
  - HTML5
  - ReacJS
+ - React Native
  - NodeJS
  - ExpressJS
  - API REST and RESTful
